@@ -1,4 +1,4 @@
-# AI Revenue Intelligence & Churn Prevention System
+# ChurnShield AI — Predictive Revenue Defense & Churn Prevention System
 
 An end-to-end **Data Science + SQL + Machine Learning + GenAI** decision-intelligence platform designed to predict SaaS customer churn, quantify financial revenue exposure, prioritize high-value retention accounts, and generate explainable retention playbooks.
 
